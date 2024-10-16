@@ -13,4 +13,4 @@ Video explaining how I made this and how to repeat it:(yet to be made. Its comin
 ### 0.1.0 
 - Very beginning. Still some errors in the code but this is the first testing version. No model is present and this is just my base code.
 ### 0.2.0 
-- First sucessful render of the model! The model is green, unanimated, t-posing, and missing part of his face, but it is loaded and is functional as the bracken.
+- First sucessful render of the model! The model is green, unanimated, t-posing, missing custom audio, and missing part of his face, but it is loaded and is functional as the bracken.
