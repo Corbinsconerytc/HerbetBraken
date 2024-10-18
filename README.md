@@ -13,3 +13,5 @@ Video explaining how I made this and how to repeat it:(yet to be made. Its comin
 - First sucessful render of the model! The model is green, unanimated, t-posing, missing custom audio, and missing part of his face, but it is loaded and is functional as the bracken.
 ### 1.0.0
 - Official Release! After 2 weeks of work I have finally got Herbert to work. You can now get this mod on thunderstore. There is still much to add, but for now it is done. I will probably start work on it in a few days to add new features.
+### 1.1.0
+- Herbert SFX have been added. More to come soon!
