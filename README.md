@@ -17,3 +17,5 @@ Added SFX to Herbert. More to come soon!
 Fixed two major bugs! The first bug fixed was the missing map marker which was fixed by adjusting how the code hide the Bracken Model. 
 Second Bug fixed was Herbert clipping through walls, which was caused by some weird position code.
 I have also decided to shelf the custom terminal message for now since I don't know how it works :P
+### 1.1.2
+Fixed bug where the bracken death sound wouldn't play.
