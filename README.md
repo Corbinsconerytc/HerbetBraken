@@ -19,3 +19,6 @@ Second Bug fixed was Herbert clipping through walls, which was caused by some we
 I have also decided to shelf the custom terminal message for now since I don't know how it works :P
 ### 1.1.2
 Fixed bug where the bracken death sound wouldn't play.
+### Prerelease 2.0.0
+This is a prerelease for the github code that removes the cracks on the model. I plan to fully fix the model before publishing it on Thunderstore,
+but for now, if you follow the Github, then you can use this code early. :)
