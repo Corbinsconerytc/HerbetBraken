@@ -22,3 +22,5 @@ Fixed bug where the bracken death sound wouldn't play.
 ### Prerelease 2.0.0
 This is a prerelease for the github code that removes the cracks on the model. I plan to fully fix the model before publishing it on Thunderstore,
 but for now, if you follow the Github, then you can use this code early. :)
+### 2.0.0
+Model rework... Kinda. Model's shaders have been fixed and the cracking bug has been fixed. This is a major update since I will most likely only be adding animations and doing bug fixes until its finished. This will be the last major update until animations get added. Bye for now :)
