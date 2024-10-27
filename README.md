@@ -26,3 +26,5 @@ but for now, if you follow the Github, then you can use this code early. :)
 Model rework... Kinda. Model's shaders have been fixed and the cracking bug has been fixed. This is a major update since I will most likely only be adding animations and doing bug fixes until its finished. This will be the last major update until animations get added. Bye for now :)
 ### 2.0.1
 Killed God. Don't ask...
+### 2.0.2
+Fixed Herberts chase pitch and added glowing eyes.
