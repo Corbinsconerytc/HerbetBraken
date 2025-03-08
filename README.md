@@ -14,7 +14,7 @@ Official Release! After 2 weeks of work I have finally got Herbert to work. You 
 ### 1.1.0 
 Added SFX to Herbert. More to come soon!
 ### 1.1.1
-Fixed two major bugs! The first bug fixed was the missing map marker which was fixed by adjusting how the code hide the Bracken Model. 
+Fixed two major bugs! The first bug fixed was the missing map marker which was fixed by adjusting how the code hides the Bracken Model. 
 Second Bug fixed was Herbert clipping through walls, which was caused by some weird position code.
 I have also decided to shelf the custom terminal message for now since I don't know how it works :P
 ### 1.1.2
