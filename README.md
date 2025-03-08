@@ -2,7 +2,7 @@
 This mod replaces the Bracken's model with a model of Herbert the Pervert from family Guy, as well changing some sound effects.
 
 Model Credits: "Herbert The Pervert" (https://skfb.ly/6YDzP) by jumpymonkeymad is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/). Thanks so much to Vulf for putting his code on thunderstore! 
-Video explaining how I made this and how to repeat it:(yet to be made. Its coming in like a month.)
+Video explaining how I made this and how to repeat it:(yet to be made. As of 3-7-25, I am still procrastinating on the video :(.)
 
 ## Changelog 
 ### 0.1.0
